@@ -1,9 +1,9 @@
 HMS Dashboard - Animated UI
 A modern and interactive Hospital Management System (HMS) dashboard built with Flutter, featuring smooth animations and a comprehensive department management interface.
 
-https://assets/images/flutter_hms_dashboard_ui_1.png
-https://assets/images/flutter_hms_dashboard_ui_2.png
-https://assets/images/flutter_hms_dashboard_ui_3.png
+[alt text](assets/images/flutter_hms_dashboard_ui_1.png) 
+[alt text](assets/images/flutter_hms_dashboard_ui_2.png)
+[alt text](assets/images/flutter_hms_dashboard_ui_3.png)
 
 ✨ Features
 Smooth Animations: Beautifully animated UI transitions for hospital department navigation
